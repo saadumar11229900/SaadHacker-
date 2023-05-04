@@ -1,9 +1,9 @@
 INSTALLATION INSTRUCTIONS
-	<p>Code Repository: <a href="https://github.com/harshitethic/whatsapp-turbo-gpt">https://github.com/harshitethic/whatsapp-turbo-gpt</a></p>
+	<p>Code Repository: <a href="https://github.com/saadumar11229900/SaadHacker-">https://github.com/saadumar11229900/SaadHacker-</a></p>
   <h2>Contact Information:</h2>
 <ul>
 	<li>Name: SAAD UMAR</li>
-	<li>Github Username: <a href="https://github.com/SAADUMAR121">https://github.com/SAADUMAR121</a></li>
+	<li>Github Username: <a href="https://github.com/saadumar11229900">https://github.com/saadumar11229900</a></li>
 	<li>Email: saadumar658@gmail.com</li>
 	<li>Youtube Video for installation: <a href=""></a></li>
 	<li>Youtube Channel: <a href="https://www.youtube.com/@saadumar658">https://www.youtube.com/@saadumar658</a></li>
@@ -17,7 +17,7 @@ INSTALLATION INSTRUCTIONS
   <ul>
     <li>
       <p>Clone the code repository from Github using the following command:</p>
-      <pre><code>$ git clone https://github.com/harshitethic/whatsapp-turbo-gpt</code></pre>
+      <pre><code>$ https://github.com/saadumar11229900/SaadHacker-</code></pre>
     </li>
     <li>
       <p>Navigate to the root directory of the code repository:</p>
@@ -37,7 +37,7 @@ INSTALLATION INSTRUCTIONS
   </ul>
 </div>
 
-<p>If you encounter any issues or have any questions, please don't hesitate to contact Harshit Sharma using the information provided above.</p>
+<p>If you encounter any issues or have any questions, please don't hesitate to contact Saad Umar using the information provided above.</p>
 <br>
 <p>This code repository contains a WhatsApp chatbot built using the OpenAI GPT-3.5 language model and the Baileys library. This chatbot is capable of generating responses to user input based on the context of the conversation. Additionally, the chatbot has a feature to store chat history, making it more convenient to continue the conversation at a later time.</p>
 
